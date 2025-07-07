@@ -2,7 +2,7 @@
 
 <img src="README.assets/%E5%9B%BE%E7%89%871.png" alt="图片1" style="zoom:33%;" />
 
-详细代码访问gitee:https://gitee.com/weiyong_wise888/huaxi-internet-hospita
+详细代码请访问gitee:https://gitee.com/weiyong_wise888/huaxi-internet-hospital
 
 
 ## 项目介绍
