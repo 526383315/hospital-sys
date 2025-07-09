@@ -1,6 +1,6 @@
 # 								华溪互联网医院系统
 
-<img src="README.assets/%E5%9B%BE%E7%89%871.png" alt="图片1" style="zoom:33%;" />
+![微信图片_20250709163116](README.assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250709163116-1752050214889.png)
 
 详细代码请访问gitee:https://gitee.com/weiyong_wise888/huaxi-internet-hospital
 
